@@ -11,3 +11,10 @@ C:\Users\Cem\Desktop\Dev\Solid\NancyEx\NancyExample\ConsoleApplication1\obj\Debu
 C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\Nancy.dll
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\Nancy.xml
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Cem\Desktop\Dev\NancyEx\NancyExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
